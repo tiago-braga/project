@@ -1,0 +1,8 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python>=3.10
+  - scikit-learn
+  - jupyterlab
+  
